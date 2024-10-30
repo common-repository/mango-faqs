@@ -1,0 +1,32 @@
+.quediv{
+	background-color:lightgray;
+	width:500px;
+}
+
+.xbutt{
+	margin:0 0 0 12px;
+	background-color:#e0e0e0;
+	color:#0073aa;
+	padding:1px 5px;
+}
+
+.xbutt:hover{
+	background-color:#0073aa;
+	color:#e0e0e0;
+}
+
+.xbutt, #addquid{
+	cursor:pointer;
+}
+
+#mango-contact{
+	width:300px;
+}
+
+#mango-input{
+	width:300px;
+}
+
+#mango-text{
+	width:300px;
+}
